@@ -1,2 +1,2 @@
 # taalika
-inventory for books
+inventory system
